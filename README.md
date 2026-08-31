@@ -126,8 +126,8 @@ The dashboard includes KPI cards, product and customer analysis, profitability a
 
 ### Dashboard Files
 
-- [Power BI Dashboard PDF](PowerBI/Retail_Sales_Analysis.pdf)
-- [Power BI PBIX File](PowerBI/retail_sales.pbix)
+- [Power BI Dashboard PDF](Power%20BI/retail_analysis.pdf)
+- [Power BI PBIX File](Power%20BI/retail_sales.pbix)
 
 > The PDF provides a quick view of the dashboard, while the PBIX file contains the Power BI report itself.
 
@@ -151,8 +151,8 @@ The analysis includes:
 
 ### SQL Files
 
-- [Retail Analysis SQL](SQL/retail_analysis.sql)
-- [Advanced Analysis SQL](SQL/Advanced_Analysis.sql)
+- [Retail Analysis SQL](Sql/retail_analysis.sql)
+- [Advanced Analysis SQL](Sql/Advanced_Analysis.sql)
 
 
 ##  Key Calculated Metrics
@@ -247,7 +247,7 @@ The detailed project report contains:
 - Business recommendations
 - Conclusion
 
-[View the Detailed Project Report](Report/Retail%20Sales%20Data%20Analysis%20%E2%80%93%20Final%20Report.docx)
+[View the Detailed Project Report](Report/Retail%20Sales%20Data%20Analysis.pdf)
 
 
 ##  Skills Demonstrated
